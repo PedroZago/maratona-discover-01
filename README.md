@@ -1,4 +1,4 @@
-<h3> # maratona-discover-01 </h3>
+<h3> # maratona-discover-01 - Rocketseat </h3>
 <p> Desenvolvendo o sistema financeiro DevFinances. <p>
 
 <h3> :man: &nbsp;Sobre mim </h3>
